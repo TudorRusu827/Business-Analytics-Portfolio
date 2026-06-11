@@ -1,2 +1,24 @@
-# Business-Analytics-Portfolio
-This project analysed the operational and financial performance of a fitness club over a six-month period. The objective was to identify the factors limiting revenue growth, evaluate customer acquisition and retention performance, and provide data-driven recommendations to improve profitability and long-term member value.
+## Project Overview
+Business performance analysis case study using a simulated fitness industry dataset.
+
+## Objectives
+- Analyse membership growth
+- Evaluate customer retention
+- Assess customer acquisition efficiency
+- Identify revenue improvement opportunities
+
+## Tools Used
+- Excel
+- KPI Analysis
+- Dashboard Development
+
+## Key Findings
+- Churn increased significantly over the reporting period
+- Membership growth stalled
+- Customer acquisition remained profitable
+- Retention was identified as the primary business challenge
+
+## Deliverables
+- Executive Dashboard
+- Business Performance Report
+- KPI Analysis
